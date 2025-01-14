@@ -32,8 +32,8 @@ I'm a versatile front end developer with hands-on experience in various technolo
   <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="Sass" height="50" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="50" /></a>
  <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="Django" height="50" /></a>
- <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nuxt" alt="Django" height="50" /></a>
- <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=reactnative" alt="Django" height="50" /></a>
+ <a href="https://nuxt.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt" height="50" /></a>
+ <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=reactnative" alt="ReactNative" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
