@@ -103,6 +103,7 @@ I'm a versatile front end developer with hands-on experience in various technolo
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
+[![An image of @arnabafk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arnabafk)](https://holopin.io/@arnabafk)
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <!--
